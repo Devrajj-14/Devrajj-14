@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=700&lines=Real-time+Apps+%7C+WebSockets+%7C+Socket.IO;Go+%2B+Node.js+%2B+React+Developer;Always+learning+System+Design+and+Scalable+Backends" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=700&lines=Real-time+Apps+%7C+WebSockets+%7C+Socket.IO;Java+%7C+Go+%7C+Node.js+%7C+React;Always+learning+System+Design+and+Scalable+Backends" />
 </p>
 
 <p align="center">
@@ -28,15 +28,16 @@
 
 ## 🚀 About Me
 
-- 🧩 I love building **real-time web apps** and **collaboration tools**
-- 🧠 Exploring: **WebSockets, scalable backend patterns, system design**
-- 🤝 Open to: **internships, collaborations, and product-building teams**
+- 🧩 I enjoy building **real-time web apps** and **collaboration tools**
+- 🧠 Currently exploring: **WebSockets, scalable backend patterns, system design**
+- 🤝 Open to: **internships, collaborations, and building cool products with teams**
 
 ---
 
 ## 🧰 Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -46,7 +47,8 @@
   <img src="https://img.shields.io/badge/WebSockets-2F3134?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
@@ -55,23 +57,25 @@
 
 ## 🌟 Featured Projects
 
-### 🔥 Real-time Collaboration Tool (Go + WebSockets)
-**Multi-user collaboration with live updates** (real-time experience, scalable patterns).
-- Repo: https://github.com/Devrajj-14/go-lan
+### 🔥 Thermal Fault Analyser
+Thermal fault detection/analysis focused on reliability and safety use-cases.  
+- Repo: https://github.com/Devrajj-14/thermal-fault-analyser
 
-### 💡 DevMates — Collaboration Platform (React + TS + Vite)
-A collaboration platform for developers to share ideas, feedback, and connect.
-- Repo: https://github.com/Devrajj-14/devmates
+### 🤖 Factory Robot Hazard Analyzer
+Safety-focused analyzer to identify and evaluate hazards in factory robot environments.  
+- Repo: https://github.com/Devrajj-14/FactoryRobotHazardAnalyzer
 
-### 🗺️ Real-time Location Tracking (Node + Socket.IO + Leaflet)
-Track multiple users on an interactive map in real time.
-- Repo: https://github.com/Devrajj-14/realtime_tracker_maps  
-- Live: https://realtime-tracker-maps.vercel.app
+### 🧠 Retinal Disease Classification (CNN + GLCM Fusion)
+Classification project combining deep learning (CNN) with texture features (GLCM fusion).  
+- Repo: https://github.com/Devrajj-14/Retinal-Disease-Classification-with-CNN-and-GLCM-Fusion
 
-### 💬 Real-time Chat App (Go + HTML/CSS/JS)
-A deployed real-time chat app.
-- Repo: https://github.com/Devrajj-14/real-time-chatting-app  
-- Live: https://devrajj-14.github.io/real-time-chatting-app/
+### 🎯 Interview AI Landing Page
+Landing page for an Interview AI concept/project (TypeScript).  
+- Repo: https://github.com/Devrajj-14/interview-ai-landing-page-
+
+### 👁️ Eye Detection Component
+Eye-detection component/module useful for vision-based projects and UI integration.  
+- Repo: https://github.com/Devrajj-14/eye-detection-component-
 
 ---
 
@@ -101,4 +105,3 @@ A deployed real-time chat app.
 
 ## 📫 Contact
 - GitHub: https://github.com/Devrajj-14
-<!-- Add email/LinkedIn if you want -->
