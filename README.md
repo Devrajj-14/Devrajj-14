@@ -1,72 +1,104 @@
+<!-- Header -->
 <h1 align="center">Hi, I'm Devraj 👋</h1>
 <p align="center">
-  Building real-time products • Collaboration platforms • Full-stack development
+  <b>Building real-time products • Collaboration platforms • Full-stack development</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Devrajj-14">GitHub</a> •
-  <!-- CHANGE IF YOU WANT: add LinkedIn/Portfolio links here -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=700&lines=Real-time+Apps+%7C+WebSockets+%7C+Socket.IO;Go+%2B+Node.js+%2B+React+Developer;Always+learning+System+Design+and+Scalable+Backends" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Devrajj-14">
+    <img src="https://img.shields.io/badge/GitHub-Devrajj--14-181717?style=for-the-badge&logo=github" />
+  </a>
+  <!-- Add these if you have them -->
+  <!--
+  <a href="https://www.linkedin.com/in/YOUR_LINK/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  -->
+  <img src="https://komarev.com/ghpvc/?username=Devrajj-14&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I enjoy building **real-time web apps** and **collaboration tools**
-- 🧠 Currently exploring: **WebSockets, scalable backend patterns, system design**
-- 🤝 Open to: internships, collaborations, and building cool products with teams
+- 🧩 I love building **real-time web apps** and **collaboration tools**
+- 🧠 Exploring: **WebSockets, scalable backend patterns, system design**
+- 🤝 Open to: **internships, collaborations, and product-building teams**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages & Runtime:** Go, JavaScript, TypeScript  
-**Frontend:** React, Vite, HTML, CSS  
-**Backend:** Node.js, Express  
-**Real-time:** WebSockets, Socket.IO  
-**Tools:** Git/GitHub, Vercel (deployments)
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-2F3134?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
 
 ---
 
-## ⭐ Featured Projects
+## 🌟 Featured Projects
 
-### 1) Real-time Collaboration Tool (Go + WebSockets)
-A real-time collaboration tool that supports **multi-user document editing with live updates**, plus UI features like suggestions and connection status.  
-🔗 Repo: https://github.com/Devrajj-14/go-lan  
-:contentReference[oaicite:1]{index=1}
+### 🔥 Real-time Collaboration Tool (Go + WebSockets)
+**Multi-user collaboration with live updates** (real-time experience, scalable patterns).
+- Repo: https://github.com/Devrajj-14/go-lan
 
-### 2) DevMates — Collaboration Platform (React + TS + Vite + Backend)
-A collaborative platform where developers share ideas, get feedback, vote, and connect with collaborators.  
-🔗 Repo: https://github.com/Devrajj-14/devmates  
-:contentReference[oaicite:2]{index=2}
+### 💡 DevMates — Collaboration Platform (React + TS + Vite)
+A collaboration platform for developers to share ideas, feedback, and connect.
+- Repo: https://github.com/Devrajj-14/devmates
 
-### 3) Real-time Location Tracking (Node/Express + Socket.IO + Leaflet)
-Tracks and displays **multiple users on an interactive map in real time**, similar to delivery/fleet tracking use-cases.  
-🔗 Repo: https://github.com/Devrajj-14/realtime_tracker_maps  
-🌐 Live: https://realtime-tracker-maps.vercel.app  
-:contentReference[oaicite:3]{index=3}
+### 🗺️ Real-time Location Tracking (Node + Socket.IO + Leaflet)
+Track multiple users on an interactive map in real time.
+- Repo: https://github.com/Devrajj-14/realtime_tracker_maps  
+- Live: https://realtime-tracker-maps.vercel.app
 
-### 4) Real-time Chat App (Go + HTML/CSS/JS)
-A real-time chatting app with a deployed GitHub Pages link.  
-🔗 Repo: https://github.com/Devrajj-14/real-time-chatting-app  
-🌐 Live: https://devrajj-14.github.io/real-time-chatting-app/  
-:contentReference[oaicite:4]{index=4}
+### 💬 Real-time Chat App (Go + HTML/CSS/JS)
+A deployed real-time chat app.
+- Repo: https://github.com/Devrajj-14/real-time-chatting-app  
+- Live: https://devrajj-14.github.io/real-time-chatting-app/
 
 ---
 
-## 📊 GitHub Stats
+## 📌 More (click to expand)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devrajj-14&show_icons=true&hide_title=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Devrajj-14" height="160" />
-</p>
+<details>
+  <summary><b>📈 GitHub Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Devrajj-14&show_icons=true&hide_title=true" height="160" />
+    <img src="https://streak-stats.demolab.com?user=Devrajj-14" height="160" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajj-14&layout=compact" height="140" />
+  </p>
+</details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajj-14&layout=compact" height="140" />
-</p>
+<details>
+  <summary><b>🏆 Trophies</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Devrajj-14&no-frame=true&row=1&column=6" />
+  </p>
+</details>
 
 ---
 
 ## 📫 Contact
-<!-- CHANGE IF YOU WANT: add email/LinkedIn -->
 - GitHub: https://github.com/Devrajj-14
+<!-- Add email/LinkedIn if you want -->
